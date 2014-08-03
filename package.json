@@ -1,0 +1,14 @@
+{
+  "name": "backalley",
+  "version": "0.0.0",
+  "description": "youtube downloader",
+  "main": "backalley.js",
+  "bin": {
+    "backalley": "backalley.js"
+  },
+  "license": "none",
+  "dependencies": {
+    "commander": "^2.3.0",
+    "youtube-feeds": "^2.3.0"
+  }
+}
